@@ -2,36 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.junsen.dpdns.org:16666/"
+  },
+  {
+    "icon": "Blog",
+    "name": "WP博客",
+    "link": "https://yuanjs2012.wordpress.com/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://pan.junsen.dpdns.org:16666/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "在线音乐",
+    "link": "https://music.junsen.dpdns.org:16666/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "CompactDisc",
+    "name": "本地音乐",
+    "link": "https://navidrome.junsen.dpdns.org:16666/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "IosChatboxes",
+    "name": "聊天",
+    "link": "https://chat.junsen.dpdns.org:16666/"
   }
 ]
